@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ilya Pantsyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=panilya&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ilya Pantsyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=panilya&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **panilya/panilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
