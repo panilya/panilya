@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=panilya&color=green)
+
 [![Ilya Pantsyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=panilya&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
